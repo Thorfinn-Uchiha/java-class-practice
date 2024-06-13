@@ -21,6 +21,9 @@ class Myregister {
 
 class Child extends Base {
 
+    int x;
+    int y;
+
     void get(int x, int y) {
         this.x = x;
         this.y = y;
